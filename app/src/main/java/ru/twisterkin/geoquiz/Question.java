@@ -4,7 +4,7 @@ package ru.twisterkin.geoquiz;
  * Created by ANesterkin on 09.07.2017
  */
 
-public class Question {
+class Question {
     private int mTextResId;
     private boolean mAnswerTrue;
 
